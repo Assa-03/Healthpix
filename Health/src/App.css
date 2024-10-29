@@ -1,0 +1,123 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.details{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 1em;
+}
+
+.details input select{
+  width: 180px;
+  height: 30px;
+}
+
+.details select{
+  width: 180px;
+  height: 30px;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+table{
+  text-align: center;
+}
+
+.tables{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.chat {
+  float: right;
+  background-color: lightyellow;
+  color: black;
+}
+
+.chat:hover{
+  background-color: black;
+  color: lightyellow;
+}
+
+.chat-input{
+  position: fixed;
+  bottom:0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  height: 30px;
+}
+
+.over{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 70px;
+}
+
+.ct{
+  font-size: 15px;
+  background-color: lightgreen;
+  padding: 5px;
+  width: fit-content;
+  border-radius: 5px;
+  float: left;
+  margin: 3px;
+  text-align: start;
+}
+
+.enter, .Hello{
+  font-size: 15px;
+  background-color: lightgrey;
+  padding: 5px;
+  width: fit-content;
+  border-radius: 5px;
+  float: left;
+  margin: 3px;
+  text-align: start;
+}
+
