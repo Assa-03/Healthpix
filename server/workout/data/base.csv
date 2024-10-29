@@ -1,0 +1,742 @@
+Age,Height,Weight,Bmi,BmiClass,dance,target
+61,1.85,109.3,31.9357195,Obese,yes,Dance
+60,1.71,79.02,27.0236996,Overweight,yes,Dance
+60,1.55,74.7,31.09261186,Obese,no,Cardio
+60,1.46,35.9,16.84180897,Underweight,no,Strength_training
+60,1.58,97.1,38.89601025,Obese,yes,Dance
+59,1.71,79.32,27.12629527,Overweight,yes,Dance
+59,1.7,73.32,25.37024221,Overweight,yes,Dance
+59,1.72,85.32,28.83991347,Overweight,no,Cardio+strength_training
+59,1.46,36,16.88872209,Underweight,yes,Dance
+59,1.83,104.7,31.26399713,Obese,yes,Dance
+58,1.71,79.31,27.12287541,Overweight,yes,Dance
+58,1.7,73.41,25.40138408,Overweight,no,Cardio+strength_training
+58,1.72,85.21,28.80273121,Overweight,yes,Dance
+58,1.47,36,16.65972511,Underweight,no,Strength_training
+57,1.71,79.3,27.11945556,Overweight,no,Cardio+strength_training
+57,1.7,73.5,25.43252595,Overweight,yes,Dance
+57,1.72,85.1,28.76554895,Overweight,yes,Dance
+57,1.75,110,35.91836735,Obese,no,Cardio
+57,1.58,79.7,31.9259734,Obese,no,Cardio
+57,1.47,36,16.65972511,Underweight,yes,Dance
+57,1.6,99.1,38.7109375,Obese,yes,Dance
+56,1.71,79.29,27.1160357,Overweight,no,Cardio+strength_training
+56,1.7,73.59,25.46366782,Overweight,no,Cardio+strength_training
+56,1.72,84.99,28.72836668,Overweight,no,Cardio+strength_training
+56,1.59,75.8,29.98299118,Overweight,no,Cardio+strength_training
+56,1.47,36.1,16.70600213,Underweight,no,Strength_training
+56,1.8,98.5,30.40123457,Obese,no,Cardio
+56,1.59,98,38.76428939,Obese,no,Cardio
+55,1.72,79.28,26.79826933,Overweight,no,Cardio+strength_training
+55,1.71,73.68,25.19749667,Overweight,no,Cardio+strength_training
+55,1.73,84.88,28.36045307,Overweight,no,Cardio+strength_training
+55,1.72,95,32.11195241,Obese,yes,Dance
+55,1.7,160,55.3633218,Obese,yes,Dance
+55,1.48,36.1,16.48100804,Underweight,yes,Dance
+54,1.72,79.32,26.81179016,Overweight,yes,Dance
+54,1.71,73.82,25.24537465,Overweight,yes,Dance
+54,1.61,78.1,30.13001042,Obese,yes,Dance
+54,1.48,36.2,16.5266618,Underweight,yes,Dance
+54,1.61,100.3,38.69449481,Obese,yes,Dance
+53,1.72,79.31,26.80840995,Overweight,yes,Dance
+53,1.62,76.3,29.073312,Overweight,yes,Dance
+53,1.49,36.2,16.30557182,Underweight,yes,Dance
+53,1.62,101.7,38.75171468,Obese,yes,Dance
+52,1.72,79.3,26.80502975,Overweight,yes,Dance
+52,1.71,74,25.30693205,Overweight,yes,Dance
+52,1.6,73,28.515625,Overweight,yes,Dance
+52,1.49,36.3,16.35061484,Underweight,yes,Dance
+52,1.64,105.1,39.07644259,Obese,yes,Dance
+51,1.72,79.29,26.80164954,Overweight,yes,Dance
+51,1.71,74.09,25.33771075,Overweight,yes,Dance
+51,1.63,70.2,26.42176973,Overweight,yes,Dance
+51,1.5,36.4,16.17777778,Underweight,yes,Dance
+51,1.75,91.2,29.77959184,Overweight,yes,Dance
+51,1.7,107.3,37.12802768,Obese,yes,Dance
+50,1.73,79.28,26.48935815,Overweight,no,Cardio+strength_training
+50,1.72,74.18,25.07436452,Overweight,no,Cardio+strength_training
+50,1.74,84.38,27.87026027,Overweight,no,Cardio+strength_training
+50,1.8,135,41.66666667,Obese,no,Cardio
+50,1.62,46,17.52781588,Underweight,no,Strength_training
+50,1.63,72.5,27.28744025,Overweight,no,Cardio+strength_training
+50,1.5,36.5,16.22222222,Underweight,no,Strength_training
+50,1.84,106.9,31.57490548,Obese,no,Cardio
+50,1.66,110.5,40.10015967,Obese,no,Cardio
+49,1.73,79.02,26.40248588,Overweight,no,Cardio+strength_training
+49,1.72,74.02,25.02028123,Overweight,no,Cardio+strength_training
+49,1.74,84.02,27.75135421,Overweight,no,Cardio+strength_training
+49,1.6,75,29.296875,Overweight,no,Cardio+strength_training
+49,1.6,44,17.1875,Underweight,no,Strength_training
+49,1.64,77.9,28.96341463,Overweight,no,Cardio+strength_training
+49,1.51,36.6,16.05192755,Underweight,no,Strength_training
+49,1.63,103.2,38.84225978,Obese,no,Cardio
+48,1.74,79.01,26.09657815,Overweight,no,Cardio+strength_training
+48,1.73,74.11,24.76193658,Normal Weight,no,Cardio+strength_training
+48,1.75,83.91,27.39918367,Overweight,no,Cardio+strength_training
+48,1.63,100,37.63784862,Obese,no,Cardio
+48,1.58,42,16.82422689,Underweight,no,Strength_training
+48,1.68,79.5,28.16751701,Overweight,no,Cardio+strength_training
+48,1.51,36.7,16.09578527,Underweight,no,Strength_training
+48,1.69,110.9,38.82917265,Obese,no,Cardio
+47,1.74,79,26.0932752,Overweight,no,Cardio+strength_training
+47,1.73,74.2,24.79200775,Normal Weight,no,Cardio+strength_training
+47,1.75,83.8,27.36326531,Overweight,no,Cardio+strength_training
+47,1.55,40,16.64932362,Underweight,no,Strength_training
+47,1.65,75.3,27.6584022,Overweight,yes,Dance
+47,1.52,36.8,15.92797784,Underweight,yes,Dance
+47,1.82,99.7,30.09902186,Obese,yes,Dance
+47,1.75,112.2,36.63673469,Obese,yes,Dance
+46,1.74,78.99,26.08997226,Overweight,yes,Dance
+46,1.73,74.29,24.82207892,Normal Weight,yes,Dance
+46,1.75,83.69,27.32734694,Overweight,yes,Dance
+46,1.86,70,20.23355301,Normal Weight,yes,Dance
+46,1.73,77,25.72755521,Overweight,yes,Dance
+46,1.52,36.9,15.97126039,Underweight,yes,Dance
+46,1.74,111.2,36.72876206,Obese,yes,Dance
+45,1.74,78.98,26.08666931,Overweight,yes,Dance
+45,1.73,74.38,24.85215009,Normal Weight,yes,Dance
+45,1.75,83.58,27.29142857,Overweight,yes,Dance
+45,1.68,140,49.6031746,Obese,yes,Dance
+45,1.84,68,20.08506616,Normal Weight,yes,Dance
+45,1.72,78.3,26.46700919,Overweight,yes,Dance
+45,1.53,37,15.80588662,Underweight,yes,Dance
+45,1.78,90.7,28.62643606,Overweight,yes,Dance
+45,1.8,116,35.80246914,Obese,yes,Dance
+44,1.74,78.62,25.96776324,Overweight,yes,Dance
+44,1.73,74.12,24.76527782,Normal Weight,yes,Dance
+44,1.75,83.12,27.14122449,Overweight,yes,Dance
+44,1.82,66,19.92512982,Normal Weight,yes,Dance
+44,1.71,74.4,25.44372627,Overweight,yes,Dance
+44,1.53,37.2,15.89132385,Underweight,yes,Dance
+44,1.8,96.1,29.66049383,Overweight,yes,Dance
+44,1.79,116.4,36.32845417,Obese,yes,Dance
+43,1.74,78.61,25.9644603,Overweight,yes,Dance
+43,1.73,74.21,24.79534899,Normal Weight,yes,Dance
+43,1.75,83.01,27.10530612,Overweight,yes,Dance
+43,1.8,64,19.75308642,Normal Weight,yes,Dance
+43,1.69,72.2,25.27922692,Overweight,yes,Dance
+43,1.54,37.4,15.76994434,Underweight,yes,Dance
+43,1.78,114.5,36.13811387,Obese,yes,Dance
+42,1.74,78.6,25.96115735,Overweight,yes,Dance
+42,1.73,74.3,24.82542016,Normal Weight,yes,Dance
+42,1.75,82.9,27.06938776,Overweight,yes,Dance
+42,1.65,90,33.05785124,Obese,yes,Dance
+42,1.78,62,19.56823633,Normal Weight,yes,Dance
+42,1.75,76.5,24.97959184,Normal Weight,yes,Dance
+42,1.54,37.5,15.81210997,Underweight,yes,Dance
+42,1.79,93.8,29.27499142,Overweight,yes,Dance
+42,1.75,112,36.57142857,Obese,yes,Dance
+41,1.74,78.59,25.95785441,Overweight,yes,Dance
+41,1.73,74.39,24.85549133,Normal Weight,yes,Dance
+41,1.75,82.79,27.03346939,Overweight,yes,Dance
+41,1.76,60,19.36983471,Normal Weight,yes,Dance
+41,1.72,78.6,26.56841536,Overweight,yes,Dance
+41,1.55,37.7,15.69198751,Underweight,yes,Dance
+41,1.73,110.1,36.78706272,Obese,yes,Dance
+40,1.74,78.58,25.95455146,Overweight,yes,Dance
+40,1.73,74.48,24.8855625,Normal Weight,yes,Dance
+40,1.75,82.68,26.99755102,Overweight,yes,Dance
+40,1.729,74.48,24.9143569,Normal Weight,yes,Dance
+40,1.7,105,36.33217993,Obese,yes,Dance
+40,1.74,58,19.15708812,Normal Weight,yes,Dance
+40,1.7,75,25.95155709,Overweight,yes,Dance
+40,1.56,38,15.61472715,Underweight,yes,Dance
+40,1.68,108.6,38.47789116,Obese,yes,Dance
+39,1.74,77.42,25.5714097,Overweight,yes,Dance
+39,1.73,73.42,24.53139096,Normal Weight,yes,Dance
+39,1.75,81.42,26.58612245,Overweight,yes,Dance
+39,1.729,73.42,24.55977556,Normal Weight,yes,Dance
+39,1.72,56,18.92915089,Normal Weight,yes,Dance
+39,1.66,71.7,26.01974162,Overweight,yes,Dance
+39,1.56,38.3,15.73800131,Underweight,yes,Dance
+39,1.78,90.2,28.4686277,Overweight,yes,Dance
+39,1.74,111.7,36.89390937,Obese,yes,Dance
+38,1.74,77.41,25.56810675,Overweight,yes,Dance
+38,1.73,73.51,24.56146213,Normal Weight,yes,Dance
+38,1.75,81.31,26.55020408,Overweight,yes,Dance
+38,1.729,73.51,24.58988152,Normal Weight,yes,Dance
+38,1.68,80,28.3446712,Overweight,yes,Dance
+38,1.7,54,18.68512111,Normal Weight,yes,Dance
+38,1.71,74.8,25.5805205,Overweight,yes,Dance
+38,1.57,38.7,15.70043409,Underweight,yes,Dance
+38,1.77,88.3,28.18474895,Overweight,yes,Dance
+38,1.78,118.9,37.52682742,Obese,yes,Dance
+37,1.74,77.4,25.5648038,Overweight,yes,Dance
+37,1.73,73.6,24.5915333,Normal Weight,yes,Dance
+37,1.75,81.2,26.51428571,Overweight,yes,Dance
+37,1.729,73.6,24.61998748,Normal Weight,yes,Dance
+37,1.7298,80.4,26.86978944,Overweight,yes,Dance
+37,1.68,52,18.42403628,Underweight,yes,Dance
+37,1.67,71.1,25.49392233,Overweight,yes,Dance
+37,1.58,39.1,15.66255408,Underweight,yes,Dance
+37,1.76,113.3,36.57670455,Obese,yes,Dance
+36,1.74,77.39,25.56150086,Overweight,yes,Dance
+36,1.73,73.69,24.62160446,Normal Weight,yes,Dance
+36,1.75,81.09,26.47836735,Overweight,yes,Dance
+36,1.729,73.69,24.65009345,Normal Weight,yes,Dance
+36,1.7298,80.39,26.86644743,Overweight,yes,Dance
+36,1.66,50,18.14486863,Underweight,yes,Dance
+36,1.69,62,21.70792339,Normal Weight,yes,Dance
+36,1.68,68.4,24.23469388,Normal Weight,yes,Dance
+36,1.59,39.6,15.66393734,Underweight,yes,Dance
+36,1.75,112.2,36.63673469,Obese,yes,Dance
+35,1.74,77.38,25.55819791,Overweight,yes,Dance
+35,1.73,73.78,24.65167563,Normal Weight,yes,Dance
+35,1.75,80.98,26.44244898,Overweight,yes,Dance
+35,1.729,73.78,24.68019941,Normal Weight,yes,Dance
+35,1.7298,80.38,26.86310541,Overweight,yes,Dance
+35,1.7,85,29.41176471,Overweight,yes,Dance
+35,1.64,48,17.84651993,Underweight,yes,Dance
+35,1.71,65,22.22906193,Normal Weight,yes,Dance
+35,1.72,67,22.64737696,Normal Weight,yes,Dance
+35,1.65,65.2,23.94857668,Normal Weight,yes,Dance
+35,1.6,40.1,15.6640625,Underweight,yes,Dance
+35,1.75,85.6,27.95102041,Overweight,yes,Dance
+35,1.7,98.5,34.08304498,Obese,yes,Dance
+34,1.74,76.22,25.17505615,Overweight,yes,Dance
+34,1.73,72.72,24.29750409,Normal Weight,yes,Dance
+34,1.75,79.72,26.03102041,Overweight,yes,Dance
+34,1.729,72.72,24.32561807,Normal Weight,yes,Dance
+34,1.7298,79.22,26.47543184,Overweight,yes,Dance
+34,1.62,46,17.52781588,Underweight,yes,Dance
+34,1.73,67,22.38631428,Normal Weight,yes,Dance
+34,1.72,66,22.30935641,Normal Weight,yes,Dance
+34,1.71,66,22.5710475,Normal Weight,yes,Dance
+34,1.7,65,22.49134948,Normal Weight,yes,Dance
+34,1.73,70.9,23.68939824,Normal Weight,yes,Dance
+34,1.61,40.6,15.66297597,Underweight,yes,Dance
+34,1.77,86.9,27.73787864,Overweight,yes,Dance
+34,1.81,120.9,36.90363542,Obese,yes,Dance
+33,1.74,76.21,25.1717532,Overweight,yes,Dance
+33,1.73,72.81,24.32757526,Normal Weight,yes,Dance
+33,1.75,79.61,25.99510204,Overweight,yes,Dance
+33,1.729,72.81,24.35572403,Normal Weight,yes,Dance
+33,1.7298,79.21,26.47208982,Overweight,yes,Dance
+33,1.6,44,17.1875,Underweight,yes,Dance
+33,1.69,64,22.40817899,Normal Weight,yes,Dance
+33,1.73,66,22.05219018,Normal Weight,yes,Dance
+33,1.7,65,22.49134948,Normal Weight,yes,Dance
+33,1.77,73.6,23.49261068,Normal Weight,yes,Dance
+33,1.62,41.2,15.6988264,Underweight,yes,Dance
+33,1.76,84.3,27.21461777,Overweight,yes,Dance
+33,1.8,118.1,36.45061728,Obese,yes,Dance
+32,1.74,76.2,25.16845026,Overweight,no,Cardio+strength_training
+32,1.73,72.9,24.35764643,Normal Weight,no,Cardio+strength_training
+32,1.75,79.5,25.95918367,Overweight,no,Cardio+strength_training
+32,1.729,72.9,24.38582999,Normal Weight,no,Cardio+strength_training
+32,1.6,120,46.875,Obese,no,Cardio
+32,1.58,42,16.82422689,Underweight,no,Strength_training
+32,1.65,60,22.03856749,Normal Weight,no,Cardio+strength_training
+32,1.68,65,23.03004535,Normal Weight,no,Cardio+strength_training
+32,1.7,65,22.49134948,Normal Weight,no,Cardio+strength_training
+32,1.68,64,22.67573696,Normal Weight,no,Cardio+strength_training
+32,1.65,61,22.40587695,Normal Weight,no,Cardio+strength_training
+32,1.69,67.8,23.73866461,Normal Weight,no,Cardio+strength_training
+32,1.64,42.2,15.69006544,Underweight,no,Strength_training
+32,1.72,81.9,27.68388318,Overweight,no,Cardio+strength_training
+32,1.77,115.7,36.93063934,Obese,no,Cardio
+31,1.74,76.19,25.16514731,Overweight,no,Cardio+strength_training
+31,1.73,72.99,24.3877176,Normal Weight,no,Cardio+strength_training
+31,1.75,79.39,25.92326531,Overweight,no,Cardio+strength_training
+31,1.729,72.99,24.41593596,Normal Weight,no,Cardio+strength_training
+31,1.7298,76.07,25.42269755,Overweight,no,Cardio+strength_training
+31,1.55,40,16.64932362,Underweight,no,Strength_training
+31,1.68,62,21.96712018,Normal Weight,no,Cardio+strength_training
+31,1.74,67,22.12973973,Normal Weight,no,Cardio+strength_training
+31,1.71,66,22.5710475,Normal Weight,no,Cardio+strength_training
+31,1.68,63,22.32142857,Normal Weight,no,Cardio+strength_training
+31,1.63,60,22.58270917,Normal Weight,no,Cardio+strength_training
+31,1.7,74.1,25.64013841,Overweight,no,Cardio+strength_training
+31,1.65,43,15.7943067,Underweight,no,Strength_training
+31,1.74,82.5,27.24930638,Overweight,no,Cardio+strength_training
+31,1.85,132,38.56829803,Obese,no,Cardio
+30,1.74,76.18,25.16184437,Overweight,no,Cardio+strength_training
+30,1.73,73.08,24.41778877,Normal Weight,no,Cardio+strength_training
+30,1.75,79.28,25.88734694,Overweight,no,Cardio+strength_training
+30,1.729,73.08,24.44604192,Normal Weight,no,Cardio+strength_training
+30,1.7298,76.06,25.41935553,Overweight,yes,Dance
+30,1.68,95,33.65929705,Obese,yes,Dance
+30,1.7,155,53.63321799,Obese,yes,Dance
+30,1.8,175,54.01234568,Obese,yes,Dance
+30,2.07,270,63.01197227,Obese,yes,Dance
+30,1.86,70,20.23355301,Normal Weight,yes,Dance
+30,1.7,66,22.83737024,Normal Weight,yes,Dance
+30,1.72,66,22.30935641,Normal Weight,yes,Dance
+30,1.69,64,22.40817899,Normal Weight,yes,Dance
+30,1.65,61,22.40587695,Normal Weight,yes,Dance
+30,1.865,93.4,26.85277692,Overweight,yes,Dance
+30,1.87,92.3,26.39480683,Overweight,yes,Dance
+30,1.68,68.7,24.34098639,Normal Weight,yes,Dance
+30,1.67,44.5,15.95611173,Underweight,yes,Dance
+30,1.74,79.9,26.39054036,Overweight,yes,Dance
+30,1.72,106.7,36.06679286,Obese,yes,Dance
+29,1.79,74.72,23.32012109,Normal Weight,yes,Dance
+29,1.78,71.72,22.6360308,Normal Weight,yes,Dance
+29,1.8,77.72,23.98765432,Normal Weight,yes,Dance
+29,1.779,71.72,22.661486,Normal Weight,yes,Dance
+29,1.7798,74.6,23.55029885,Normal Weight,yes,Dance
+29,1.65,150,55.09641873,Obese,yes,Dance
+29,1.75,170,55.51020408,Obese,yes,Dance
+29,2.05,260,61.86793575,Obese,yes,Dance
+29,1.84,68,20.08506616,Normal Weight,yes,Dance
+29,1.63,58,21.8299522,Normal Weight,yes,Dance
+29,1.7,64,22.14532872,Normal Weight,yes,Dance
+29,1.68,63,22.32142857,Normal Weight,yes,Dance
+29,1.66,62,22.4996371,Normal Weight,yes,Dance
+29,1.847,90.9,26.64588151,Overweight,yes,Dance
+29,1.853,89.7,26.12411605,Overweight,yes,Dance
+29,1.72,69.3,23.42482423,Normal Weight,yes,Dance
+29,1.66,45.7,16.58440993,Underweight,yes,Dance
+29,1.75,81.4,26.57959184,Overweight,yes,Dance
+29,1.76,113.8,36.73811983,Obese,yes,Dance
+28,1.78,74.71,23.57972478,Normal Weight,yes,Dance
+28,1.77,71.81,22.92125507,Normal Weight,yes,Dance
+28,1.79,77.61,24.22209045,Normal Weight,yes,Dance
+28,1.769,71.81,22.94717676,Normal Weight,yes,Dance
+28,1.7698,74.59,23.81399322,Normal Weight,yes,Dance
+28,1.75,75,24.48979592,Normal Weight,yes,Dance
+28,1.67,145,51.99182473,Obese,yes,Dance
+28,1.72,165,55.77339102,Obese,yes,Dance
+28,2.02,250,61.26850309,Obese,yes,Dance
+28,1.82,66,19.92512982,Normal Weight,yes,Dance
+28,1.78,75,23.67125363,Normal Weight,yes,Dance
+28,1.76,69,22.27530992,Normal Weight,yes,Dance
+28,1.66,62,22.4996371,Normal Weight,yes,Dance
+28,1.67,63,22.58955144,Normal Weight,yes,Dance
+28,1.63,60,22.58270917,Normal Weight,yes,Dance
+28,1.832,88.3,26.30932858,Overweight,yes,Dance
+28,1.838,87.2,25.81222671,Overweight,yes,Dance
+28,1.78,72.1,22.75596516,Normal Weight,yes,Dance
+28,1.68,46.2,16.36904762,Underweight,yes,Dance
+28,1.73,78.6,26.26215376,Overweight,yes,Dance
+28,1.82,126.8,38.28040092,Obese,yes,Dance
+27,1.77,74.7,23.84372307,Normal Weight,yes,Dance
+27,1.76,71.9,23.2115186,Normal Weight,yes,Dance
+27,1.78,77.5,24.46029542,Normal Weight,yes,Dance
+27,1.759,71.9,23.23791782,Normal Weight,yes,Dance
+27,1.7598,74.58,24.08217746,Normal Weight,yes,Dance
+27,1.69,140,49.01789153,Obese,yes,Dance
+27,1.77,160,51.07089278,Obese,yes,Dance
+27,2,240,60,Obese,yes,Dance
+27,1.8,64,19.75308642,Normal Weight,yes,Dance
+27,1.67,63,22.58955144,Normal Weight,yes,Dance
+27,1.75,68,22.20408163,Normal Weight,yes,Dance
+27,1.66,62,22.4996371,Normal Weight,yes,Dance
+27,1.62,59,22.48132907,Normal Weight,yes,Dance
+27,1.82,85.8,25.90266876,Overweight,yes,Dance
+27,1.825,84.6,25.40063802,Overweight,yes,Dance
+27,1.79,76.8,23.96928935,Normal Weight,yes,Dance
+27,1.69,47.5,16.63107034,Underweight,yes,Dance
+27,1.71,76.3,26.09349885,Overweight,yes,Dance
+27,1.84,131,38.69328922,Obese,yes,Dance
+26,1.76,74.69,24.11221591,Normal Weight,yes,Dance
+26,1.75,71.99,23.50693878,Normal Weight,yes,Dance
+26,1.77,77.39,24.70235245,Normal Weight,yes,Dance
+26,1.749,71.99,23.53382689,Normal Weight,yes,Dance
+26,1.7498,74.57,24.35495428,Normal Weight,yes,Dance
+26,1.64,135,50.1933373,Obese,yes,Dance
+26,1.79,155,48.37551887,Obese,yes,Dance
+26,1.97,230,59.26460357,Obese,yes,Dance
+26,1.78,62,19.56823633,Normal Weight,yes,Dance
+26,1.74,68,22.46003435,Normal Weight,yes,Dance
+26,1.69,63,22.05805119,Normal Weight,yes,Dance
+26,1.65,61,22.40587695,Normal Weight,yes,Dance
+26,1.6,58,22.65625,Normal Weight,yes,Dance
+26,1.794,83.2,25.85106555,Overweight,yes,Dance
+26,1.799,82.1,25.36768466,Overweight,yes,Dance
+26,1.74,71.9,23.74818338,Normal Weight,yes,Dance
+26,1.71,48.9,16.72309429,Underweight,yes,Dance
+26,1.76,80.2,25.8910124,Overweight,yes,Dance
+26,1.86,134.1,38.76170656,Obese,yes,Dance
+25,1.75,74.68,24.38530612,Normal Weight,yes,Dance
+25,1.74,72.08,23.80763641,Normal Weight,yes,Dance
+25,1.76,77.28,24.94834711,Normal Weight,yes,Dance
+25,1.739,72.08,23.83502512,Normal Weight,yes,Dance
+25,1.7398,74.56,24.63242938,Normal Weight,yes,Dance
+25,1.7,130,44.98269896,Obese,yes,Dance
+25,1.74,150,49.54419342,Obese,yes,Dance
+25,1.95,220,57.85667324,Obese,yes,Dance
+25,1.76,60,19.36983471,Normal Weight,yes,Dance
+25,1.72,68,22.98539751,Normal Weight,yes,Dance
+25,1.62,60,22.86236854,Normal Weight,yes,Dance
+25,1.6,58,22.65625,Normal Weight,yes,Dance
+25,1.77,78,24.89706023,Normal Weight,yes,Dance
+25,1.77,77,24.57786715,Normal Weight,yes,Dance
+25,1.76,76,24.53512397,Normal Weight,yes,Dance
+25,1.76,75,24.21229339,Normal Weight,yes,Dance
+25,1.786,80.7,25.29942354,Overweight,yes,Dance
+25,1.781,79.5,25.06335986,Overweight,yes,Dance
+25,1.75,70.5,23.02040816,Normal Weight,yes,Dance
+25,1.73,49.7,16.60596746,Underweight,yes,Dance
+25,1.71,77.7,26.57227865,Overweight,yes,Dance
+25,1.75,100.2,32.71836735,Obese,yes,Dance
+24,1.77,71.82,22.924447,Normal Weight,yes,Dance
+24,1.76,69.32,22.3786157,Normal Weight,yes,Dance
+24,1.78,74.32,23.45663426,Normal Weight,yes,Dance
+24,1.759,69.32,22.40406764,Normal Weight,yes,Dance
+24,1.781,74.32,23.43030069,Normal Weight,yes,Dance
+24,1.62,125,47.62993446,Obese,yes,Dance
+24,1.76,145,46.81043388,Obese,yes,Dance
+24,1.92,210,56.96614583,Obese,yes,Dance
+24,1.74,58,19.15708812,Normal Weight,yes,Dance
+24,1.75,70,22.85714286,Normal Weight,yes,Dance
+24,1.76,76,24.53512397,Normal Weight,yes,Dance
+24,1.76,75,24.21229339,Normal Weight,yes,Dance
+24,1.75,74,24.16326531,Normal Weight,yes,Dance
+24,1.75,73,23.83673469,Normal Weight,yes,Dance
+24,1.772,78.1,24.87273821,Normal Weight,yes,Dance
+24,1.767,77,24.66139425,Normal Weight,yes,Dance
+24,1.76,68,21.95247934,Normal Weight,yes,Dance
+24,1.66,50.5,18.32631732,Underweight,yes,Dance
+24,1.72,74.8,25.28393726,Overweight,yes,Dance
+24,1.83,128.7,38.43052943,Obese,yes,Dance
+23,1.76,71.81,23.18246384,Normal Weight,no,Cardio+strength_training
+23,1.75,69.41,22.6644898,Normal Weight,no,Cardio+strength_training
+23,1.77,74.21,23.68731846,Normal Weight,no,Cardio+strength_training
+23,1.749,69.41,22.69041429,Normal Weight,no,Cardio+strength_training
+23,1.771,74.21,23.66057579,Normal Weight,no,Cardio+strength_training
+23,1.68,120,42.5170068,Obese,no,Cardio
+23,1.71,140,47.87797955,Obese,no,Cardio
+23,1.9,200,55.40166205,Obese,no,Cardio
+23,1.72,56,18.92915089,Normal Weight,no,Cardio+strength_training
+23,1.75,74,24.16326531,Normal Weight,no,Cardio+strength_training
+23,1.75,73,23.83673469,Normal Weight,no,Cardio+strength_training
+23,1.74,72,23.78121284,Normal Weight,no,Cardio+strength_training
+23,1.74,71,23.45091822,Normal Weight,no,Cardio+strength_training
+23,1.753,75.6,24.60129469,Normal Weight,no,Cardio+strength_training
+23,1.746,74.4,24.40531721,Normal Weight,no,Cardio+strength_training
+23,1.68,52.1,18.45946712,Underweight,no,Strength_training
+23,1.7,75.9,26.26297578,Overweight,no,Cardio+strength_training
+22,1.75,71.8,23.44489796,Normal Weight,no,Cardio+strength_training
+22,1.74,69.5,22.95547628,Normal Weight,no,Cardio+strength_training
+22,1.76,74.1,23.92174587,Normal Weight,no,Cardio+strength_training
+22,1.739,69.5,22.98188465,Normal Weight,no,Cardio+strength_training
+22,1.761,74.1,23.89458522,Normal Weight,no,Cardio+strength_training
+22,1.762,71.901,23.15917703,Normal Weight,no,Cardio+strength_training
+22,1.738,71.699,23.73632907,Normal Weight,no,Cardio+strength_training
+22,1.63,95,35.75595619,Obese,no,Cardio
+22,1.66,115,41.73319785,Obese,no,Cardio
+22,1.69,135,47.26725255,Obese,no,Cardio
+22,1.87,190,54.33383854,Obese,no,Cardio
+22,1.7,54,18.68512111,Normal Weight,no,Cardio+strength_training
+22,1.74,72,23.78121284,Normal Weight,no,Cardio+strength_training
+22,1.76,73,23.56663223,Normal Weight,no,Cardio+strength_training
+22,1.74,71,23.45091822,Normal Weight,no,Cardio+strength_training
+22,1.73,70,23.38868656,Normal Weight,no,Cardio+strength_training
+22,1.72,69,23.32341806,Normal Weight,no,Cardio+strength_training
+22,1.709,73,24.99417088,Normal Weight,no,Cardio+strength_training
+22,1.702,71.9,24.8204573,Normal Weight,no,Cardio+strength_training
+22,1.8,80.2,24.75308642,Normal Weight,no,Cardio+strength_training
+22,1.7,54.8,18.96193772,Normal Weight,no,Cardio+strength_training
+22,1.68,72,25.51020408,Overweight,no,Cardio+strength_training
+22,1.79,120.3,37.54564464,Obese,no,Cardio
+21,1.74,71.79,23.71185097,Normal Weight,no,Cardio+strength_training
+21,1.73,69.59,23.25169568,Normal Weight,no,Cardio+strength_training
+21,1.75,73.99,24.16,Normal Weight,no,Cardio+strength_training
+21,1.729,69.59,23.27859958,Normal Weight,no,Cardio+strength_training
+21,1.751,73.99,24.13241222,Normal Weight,no,Cardio+strength_training
+21,1.752,71.891,23.42104783,Normal Weight,no,Cardio+strength_training
+21,1.728,71.689,24.00850105,Normal Weight,no,Cardio+strength_training
+21,1.75,110,35.91836735,Obese,no,Cardio
+21,1.71,110,37.6184125,Obese,no,Cardio
+21,1.73,130,43.43613218,Obese,no,Cardio
+21,1.85,180,52.59313367,Obese,no,Cardio
+21,1.68,52,18.42403628,Underweight,no,Strength_training
+21,1.73,70,23.38868656,Normal Weight,no,Cardio+strength_training
+21,1.75,71,23.18367347,Normal Weight,no,Cardio+strength_training
+21,1.73,69,23.05456246,Normal Weight,no,Cardio+strength_training
+21,1.72,68,22.98539751,Normal Weight,no,Cardio+strength_training
+21,1.71,67,22.91303307,Normal Weight,no,Cardio+strength_training
+21,1.721,70.5,23.80276321,Normal Weight,no,Cardio+strength_training
+21,1.715,69.3,23.56161123,Normal Weight,no,Cardio+strength_training
+21,1.75,57.3,18.71020408,Normal Weight,no,Cardio+strength_training
+21,1.7,43.4,15.01730104,Underweight,no,Strength_training
+21,1.55,37.6,15.6503642,Underweight,no,Strength_training
+21,1.69,73.5,25.73439305,Overweight,no,Cardio+strength_training
+20,1.73,71.78,23.98342744,Normal Weight,no,Cardio+strength_training
+20,1.72,69.68,23.55327204,Normal Weight,no,Cardio+strength_training
+20,1.74,73.88,24.40216673,Normal Weight,no,Cardio+strength_training
+20,1.719,69.68,23.58068347,Normal Weight,no,Cardio+strength_training
+20,1.741,73.88,24.37414243,Normal Weight,no,Cardio+strength_training
+20,1.742,71.881,23.68742264,Normal Weight,no,Cardio+strength_training
+20,1.718,71.679,24.28542001,Normal Weight,no,Cardio+strength_training
+20,1.72,105,35.49215792,Obese,no,Cardio
+20,1.65,105,38.56749311,Obese,no,Cardio
+20,1.78,125,39.45208938,Obese,no,Cardio
+20,1.82,170,51.32230407,Obese,no,Cardio
+20,1.66,50,18.14486863,Underweight,no,Strength_training
+20,1.72,68,22.98539751,Normal Weight,no,Cardio+strength_training
+20,1.73,69,23.05456246,Normal Weight,no,Cardio+strength_training
+20,1.72,67,22.64737696,Normal Weight,no,Cardio+strength_training
+20,1.7,66,22.83737024,Normal Weight,no,Cardio+strength_training
+20,1.69,65,22.75830678,Normal Weight,no,Cardio+strength_training
+20,1.705,68.9,23.70120656,Normal Weight,no,Cardio+strength_training
+20,1.697,66.8,23.19598279,Normal Weight,no,Cardio+strength_training
+20,1.61,44.6,17.20612631,Underweight,no,Strength_training
+20,1.57,41.1,16.67410443,Underweight,no,Strength_training
+20,1.56,39.4,16.19000657,Underweight,no,Strength_training
+20,1.54,34.9,14.71580368,Underweight,no,Strength_training
+20,1.51,31.7,13.902899,Underweight,no,Strength_training
+20,1.49,29.4,13.24264673,Underweight,no,Strength_training
+20,1.47,27.6,12.77245592,Underweight,no,Strength_training
+20,1.46,25.9,12.15049728,Underweight,no,Strength_training
+20,1.68,72.9,25.82908163,Overweight,no,Cardio+strength_training
+19,1.751,70,22.83104278,Normal Weight,no,Cardio+strength_training
+19,1.741,68,22.43424046,Normal Weight,no,Cardio+strength_training
+19,1.761,72,23.21741074,Normal Weight,no,Cardio+strength_training
+19,1.74,68,22.46003435,Normal Weight,no,Cardio+strength_training
+19,1.762,72,23.19106474,Normal Weight,no,Cardio+strength_training
+19,1.763,70.101,22.55379292,Normal Weight,no,Cardio+strength_training
+19,1.739,69.899,23.11382382,Normal Weight,no,Cardio+strength_training
+19,1.68,98,34.72222222,Obese,no,Cardio
+19,1.69,98,34.31252407,Obese,no,Cardio
+19,1.75,120,39.18367347,Obese,no,Cardio
+19,1.8,160,49.38271605,Obese,no,Cardio
+19,1.64,48,17.84651993,Underweight,no,Strength_training
+19,1.71,66,22.5710475,Normal Weight,no,Cardio+strength_training
+19,1.72,67,22.64737696,Normal Weight,no,Cardio+strength_training
+19,1.7,65,22.49134948,Normal Weight,no,Cardio+strength_training
+19,1.69,64,22.40817899,Normal Weight,no,Cardio+strength_training
+19,1.68,63,22.32142857,Normal Weight,no,Cardio+strength_training
+19,1.673,65.4,23.36608038,Normal Weight,no,Cardio+strength_training
+19,1.661,64.2,23.26996677,Normal Weight,no,Cardio+strength_training
+19,1.58,41.5,16.62393847,Underweight,no,Strength_training
+19,1.6,42.3,16.5234375,Underweight,no,Strength_training
+19,1.59,41.2,16.2968237,Underweight,no,Strength_training
+19,1.58,37,14.82134273,Underweight,no,Strength_training
+19,1.53,33.6,14.3534538,Underweight,no,Strength_training
+19,1.5,30.8,13.68888889,Underweight,no,Strength_training
+19,1.48,28.7,13.10262966,Underweight,no,Strength_training
+19,1.47,26.9,12.44851682,Underweight,no,Strength_training
+19,1.69,74.4,26.04950807,Overweight,no,Cardio+strength_training
+18,1.75,69.2,22.59591837,Normal Weight,no,Cardio+strength_training
+18,1.74,67.3,22.22882811,Normal Weight,no,Cardio+strength_training
+18,1.76,71.1,22.95325413,Normal Weight,no,Cardio+strength_training
+18,1.739,67.3,22.25440053,Normal Weight,no,Cardio+strength_training
+18,1.761,71.1,22.9271931,Normal Weight,no,Cardio+strength_training
+18,1.762,69.301,22.32172191,Normal Weight,no,Cardio+strength_training
+18,1.738,69.099,22.87558547,Normal Weight,no,Cardio+strength_training
+18,1.59,69.32,27.41980143,Overweight,no,Cardio+strength_training
+18,1.7,100,34.60207612,Obese,no,Cardio
+18,1.67,100,35.85643085,Obese,no,Cardio
+18,1.72,115,38.87236344,Obese,no,Cardio
+18,1.78,150,47.34250726,Obese,no,Cardio
+18,1.62,46,17.52781588,Underweight,no,Strength_training
+18,1.7,64,22.14532872,Normal Weight,no,Cardio+strength_training
+18,1.71,65,22.22906193,Normal Weight,no,Cardio+strength_training
+18,1.69,63,22.05805119,Normal Weight,no,Cardio+strength_training
+18,1.68,62,21.96712018,Normal Weight,no,Cardio+strength_training
+18,1.67,61,21.87242282,Normal Weight,no,Cardio+strength_training
+18,1.69,63.8,22.33815343,Normal Weight,no,Cardio+strength_training
+18,1.684,61.7,21.75709909,Normal Weight,no,Cardio+strength_training
+18,1.62,43.9,16.72763298,Underweight,no,Strength_training
+18,1.55,40,16.64932362,Underweight,no,Strength_training
+18,1.61,41.7,16.08734231,Underweight,no,Strength_training
+18,1.57,36.3,14.72676376,Underweight,no,Strength_training
+18,1.52,32.9,14.23995845,Underweight,no,Strength_training
+18,1.5,30.3,13.46666667,Underweight,no,Strength_training
+18,1.48,28.3,12.92001461,Underweight,no,Strength_training
+18,1.46,26.6,12.4788891,Underweight,no,Strength_training
+18,1.7,72.9,25.22491349,Overweight,no,Cardio+strength_training
+17,1.65,95,34.89439853,Obese,no,Cardio
+17,1.63,95,35.75595619,Obese,no,Cardio
+17,1.68,110,38.9739229,Obese,no,Cardio
+17,1.75,140,45.71428571,Obese,no,Cardio
+17,1.6,44,17.1875,Underweight,no,Strength_training
+17,1.69,61,21.3577956,Normal Weight,no,Cardio+strength_training
+17,1.7,62,21.4532872,Normal Weight,no,Cardio+strength_training
+17,1.68,60,21.2585034,Normal Weight,no,Cardio+strength_training
+17,1.67,59,21.1552942,Normal Weight,no,Cardio+strength_training
+17,1.65,58,21.30394858,Normal Weight,no,Cardio+strength_training
+17,1.638,60.3,22.47447302,Normal Weight,no,Cardio+strength_training
+17,1.628,59.1,22.29865559,Normal Weight,no,Cardio+strength_training
+17,1.63,45.2,17.01230758,Underweight,no,Strength_training
+17,1.62,44,16.76573693,Underweight,no,Strength_training
+17,1.6,38.9,15.1953125,Underweight,yes,Dance
+17,1.54,34.1,14.37847866,Underweight,yes,Dance
+17,1.51,31.2,13.68361037,Underweight,yes,Dance
+17,1.49,29,13.06247466,Underweight,yes,Dance
+17,1.47,27.3,12.63362488,Underweight,yes,Dance
+16,1.6,90,35.15625,Obese,yes,Dance
+16,1.58,90,36.05191476,Obese,yes,Dance
+16,1.7,105,36.33217993,Obese,yes,Dance
+16,1.72,130,43.94267171,Obese,yes,Dance
+16,1.58,42,16.82422689,Underweight,yes,Dance
+16,1.67,58,20.79672989,Normal Weight,yes,Dance
+16,1.68,59,20.90419501,Normal Weight,yes,Dance
+16,1.66,57,20.68515024,Normal Weight,yes,Dance
+16,1.65,56,20.56932966,Normal Weight,yes,Dance
+16,1.64,55,20.44913742,Normal Weight,yes,Dance
+16,1.652,58.7,21.50889083,Normal Weight,yes,Dance
+16,1.642,56.6,20.99278827,Normal Weight,yes,Dance
+16,1.59,42.8,16.92971006,Underweight,yes,Dance
+16,1.58,40.1,16.06313091,Underweight,yes,Dance
+16,1.55,35.7,14.85952133,Underweight,yes,Dance
+16,1.52,32.2,13.93698061,Underweight,yes,Dance
+16,1.49,29.9,13.46786181,Underweight,yes,Dance
+16,1.47,28,12.95756398,Underweight,yes,Dance
+16,1.46,26.3,12.33814975,Underweight,yes,Dance
+15,1.55,85,35.3798127,Obese,yes,Dance
+15,1.62,85,32.38835543,Obese,yes,Dance
+15,1.65,100,36.73094582,Obese,yes,Dance
+15,1.7,120,41.52249135,Obese,yes,Dance
+15,1.55,40,16.64932362,Underweight,yes,Dance
+15,1.65,55,20.2020202,Normal Weight,yes,Dance
+15,1.66,56,20.32225287,Normal Weight,yes,Dance
+15,1.64,54,20.07733492,Normal Weight,yes,Dance
+15,1.63,53,19.94805977,Normal Weight,yes,Dance
+15,1.62,52,19.81405274,Normal Weight,yes,Dance
+15,1.605,55.2,21.42836347,Normal Weight,yes,Dance
+15,1.597,54,21.17307459,Normal Weight,yes,Dance
+22,1.78,115,36.29592223,Obese,yes,Dance
+32,1.76,130.5,42.1293905,Obese,yes,Dance
+42,1.73,146.2,48.8489425,Obese,yes,Dance
+25,1.81,128.7,39.28451512,Obese,yes,Dance
+35,1.75,141.5,46.20408163,Obese,yes,Dance
+45,1.7,155.8,53.9100346,Obese,yes,Dance
+28,1.85,142,41.49013879,Obese,yes,Dance
+38,1.8,159.6,49.25925926,Obese,yes,Dance
+48,1.68,175,62.00396825,Obese,yes,Dance
+30,1.8,150,46.2962963,Obese,yes,Dance
+40,1.74,165.3,54.59770115,Obese,yes,Dance
+50,1.66,182.7,66.30134998,Obese,yes,Dance
+24,1.77,124.5,39.73953845,Obese,yes,Dance
+34,1.76,138.9,44.84116736,Obese,yes,Dance
+44,1.72,154,52.05516495,Obese,yes,Dance
+27,1.83,136.2,40.67007077,Obese,yes,Dance
+37,1.78,152.3,48.0684257,Obese,yes,Dance
+47,1.67,168.9,60.56151171,Obese,yes,Dance
+29,1.79,132.1,41.22842608,Obese,yes,Dance
+39,1.77,146.3,46.69794759,Obese,yes,Dance
+49,1.65,162.5,59.68778696,Obese,yes,Dance
+26,1.82,132,39.85025963,Obese,yes,Dance
+36,1.76,144,46.48760331,Obese,yes,Dance
+46,1.71,158.7,54.27310967,Obese,yes,Dance
+31,1.78,127.8,40.33581618,Obese,yes,Dance
+41,1.75,151,49.30612245,Obese,yes,Dance
+17,1.65,60.5,22.22222222,Normal Weight,yes,Dance
+25,1.75,70.2,22.92244898,Normal Weight,yes,Dance
+32,1.8,76.8,23.7037037,Normal Weight,yes,Dance
+22,1.68,63.5,22.49858277,Normal Weight,yes,Dance
+39,1.7,72.9,25.22491349,Overweight,yes,Dance
+48,1.62,68.7,26.17741198,Overweight,yes,Dance
+19,1.7,67.3,23.28719723,Normal Weight,yes,Dance
+28,1.78,74.6,23.54500694,Normal Weight,yes,Dance
+35,1.75,71.8,23.44489796,Normal Weight,yes,Dance
+44,1.69,70.3,24.6139841,Normal Weight,yes,Dance
+20,1.72,66,22.30935641,Normal Weight,yes,Dance
+29,1.79,75.3,23.50113917,Normal Weight,yes,Dance
+37,1.72,69.5,23.49242834,Normal Weight,yes,Dance
+47,1.66,68,24.67702134,Normal Weight,yes,Dance
+21,1.69,65.7,23.00339624,Normal Weight,yes,Dance
+31,1.76,72,23.24380165,Normal Weight,yes,Dance
+38,1.71,70.2,24.00738689,Normal Weight,yes,Dance
+49,1.64,67.3,25.02230815,Overweight,yes,Dance
+24,1.73,68.5,22.88750042,Normal Weight,yes,Dance
+33,1.81,78.4,23.93089344,Normal Weight,yes,Dance
+41,1.67,68.9,24.70508086,Normal Weight,yes,Dance
+50,1.63,67,25.21735858,Overweight,yes,Dance
+23,1.71,67,22.91303307,Normal Weight,yes,Dance
+30,1.77,73.5,23.46069137,Normal Weight,yes,Dance
+36,1.74,70.8,23.38485929,Normal Weight,yes,Dance
+46,1.68,69.2,24.51814059,Normal Weight,yes,Dance
+18,1.66,62.3,22.60850631,Normal Weight,yes,Dance
+27,1.74,71.5,23.61606553,Normal Weight,yes,Dance
+34,1.78,73.2,23.10314354,Normal Weight,yes,Dance
+42,1.65,66.2,24.31588613,Normal Weight,yes,Dance
+16,1.6,55,21.484375,Normal Weight,yes,Dance
+26,1.72,68.5,23.15440779,Normal Weight,yes,Dance
+37,1.76,73.2,23.63119835,Normal Weight,yes,Dance
+47,1.66,63.7,23.11656264,Normal Weight,yes,Dance
+18,1.68,62.8,22.25056689,Normal Weight,yes,Dance
+29,1.79,71.4,22.28394869,Normal Weight,yes,Dance
+40,1.73,70,23.38868656,Normal Weight,yes,Dance
+49,1.65,63.3,23.25068871,Normal Weight,yes,Dance
+19,1.66,59.5,21.59239367,Normal Weight,yes,Dance
+30,1.76,68,21.95247934,Normal Weight,yes,Dance
+42,1.69,67.2,23.52858793,Normal Weight,yes,Dance
+50,1.64,62.7,23.31201666,Normal Weight,yes,Dance
+21,1.72,65.7,22.20795024,Normal Weight,yes,Dance
+32,1.78,70.5,22.25097841,Normal Weight,yes,Dance
+44,1.7,66.9,23.14878893,Normal Weight,yes,Dance
+22,1.69,64.3,22.51321732,Normal Weight,yes,Dance
+34,1.75,69.8,22.79183673,Normal Weight,yes,Dance
+46,1.68,63.8,22.60487528,Normal Weight,yes,Dance
+23,1.7,63.5,21.97231834,Normal Weight,yes,Dance
+35,1.77,70.3,22.43927352,Normal Weight,yes,Dance
+48,1.65,63.1,23.17722681,Normal Weight,yes,Dance
+25,1.71,66.7,22.8104374,Normal Weight,yes,Dance
+36,1.75,70.1,22.88979592,Normal Weight,yes,Dance
+45,1.67,63.5,22.76883359,Normal Weight,yes,Dance
+27,1.74,68.2,22.52609328,Normal Weight,yes,Dance
+38,1.78,71,22.40878677,Normal Weight,yes,Dance
+16,1.62,50,19.05197378,Normal Weight,yes,Dance
+26,1.67,55.5,19.90031912,Normal Weight,yes,Dance
+36,1.7,57.8,20,Normal Weight,yes,Dance
+46,1.73,60.2,20.11427044,Normal Weight,yes,Dance
+17,1.63,51.2,19.27057849,Normal Weight,yes,Dance
+27,1.68,56,19.84126984,Normal Weight,yes,Dance
+37,1.71,58.1,19.86936151,Normal Weight,yes,Dance
+47,1.74,61,20.14797199,Normal Weight,yes,Dance
+18,1.64,52.5,19.51963117,Normal Weight,yes,Dance
+28,1.69,56.7,19.85224607,Normal Weight,yes,Dance
+38,1.72,59,19.94321255,Normal Weight,yes,Dance
+48,1.75,62.3,20.34285714,Normal Weight,yes,Dance
+19,1.65,53.8,19.76124885,Normal Weight,yes,Dance
+29,1.7,57.3,19.82698962,Normal Weight,yes,Dance
+39,1.73,59.9,20.01403321,Normal Weight,yes,Dance
+49,1.76,63.6,20.53202479,Normal Weight,yes,Dance
+20,1.66,55,19.95935549,Normal Weight,yes,Dance
+30,1.71,58.5,20.00615574,Normal Weight,yes,Dance
+40,1.74,60.7,20.0488836,Normal Weight,yes,Dance
+50,1.77,64.9,20.71563089,Normal Weight,yes,Dance
+21,1.67,56.2,20.15131414,Normal Weight,yes,Dance
+31,1.72,59,19.94321255,Normal Weight,yes,Dance
+41,1.75,61.5,20.08163265,Normal Weight,yes,Dance
+22,1.68,57.5,20.37273243,Normal Weight,yes,Dance
+32,1.73,60.8,20.3147449,Normal Weight,yes,Dance
+42,1.76,62.2,20.08006198,Normal Weight,yes,Dance
+23,1.69,58.7,20.55250166,Normal Weight,yes,Dance
+33,1.74,61.2,20.21403092,Normal Weight,no,Cardio+strength_training
+43,1.77,63.4,20.23684127,Normal Weight,no,Cardio+strength_training
+24,1.7,60,20.76124567,Normal Weight,no,Cardio+strength_training
+34,1.75,61.8,20.17959184,Normal Weight,no,Cardio+strength_training
+44,1.78,64.8,20.45196314,Normal Weight,no,Cardio+strength_training
+25,1.71,61.2,20.92951677,Normal Weight,no,Cardio+strength_training
+35,1.76,62.4,20.1446281,Normal Weight,no,Cardio+strength_training
+45,1.79,65.7,20.504978,Normal Weight,no,Cardio+strength_training
+16,1.65,65.5,24.05876951,Normal Weight,no,Cardio+strength_training
+26,1.7,75.6,26.15916955,Overweight,no,Cardio+strength_training
+36,1.75,85.8,28.01632653,Overweight,no,Cardio+strength_training
+46,1.8,95.9,29.59876543,Overweight,no,Cardio+strength_training
+17,1.67,68,24.38237298,Normal Weight,no,Cardio+strength_training
+27,1.72,78.2,26.43320714,Overweight,no,Cardio+strength_training
+37,1.77,88.3,28.18474895,Overweight,no,Cardio+strength_training
+47,1.82,98.4,29.70655718,Overweight,no,Cardio+strength_training
+18,1.69,70.5,24.68400966,Normal Weight,no,Cardio+strength_training
+28,1.74,80.8,26.68780552,Overweight,no,Cardio+strength_training
+38,1.79,90.9,28.36990106,Overweight,no,Cardio+strength_training
+48,1.84,101,29.83223062,Overweight,no,Cardio+strength_training
+19,1.7,73,25.25951557,Overweight,no,Cardio+strength_training
+29,1.76,83.3,26.89178719,Overweight,no,Cardio+strength_training
+39,1.81,93.5,28.54003236,Overweight,yes,Dance
+49,1.86,104.6,30.23470921,Obese,yes,Dance
+20,1.72,75.6,25.5543537,Overweight,yes,Dance
+30,1.78,85.7,27.04835248,Overweight,yes,Dance
+40,1.83,96.1,28.69598973,Overweight,yes,Dance
+50,1.88,107.2,30.33046627,Obese,yes,Dance
+21,1.74,78.1,25.79601004,Overweight,yes,Dance
+31,1.8,88.2,27.22222222,Overweight,yes,Dance
+41,1.85,98.7,28.8385683,Overweight,yes,Dance
+22,1.76,80.7,26.05242769,Overweight,yes,Dance
+32,1.82,90.6,27.35176911,Overweight,yes,Dance
+42,1.87,101.3,28.96851497,Overweight,yes,Dance
+23,1.78,83.3,26.29087236,Overweight,yes,Dance
+33,1.84,93.1,27.49881853,Overweight,yes,Dance
+43,1.89,104,29.11452647,Overweight,yes,Dance
+24,1.8,85.8,26.48148148,Overweight,yes,Dance
+34,1.86,95.7,27.66215747,Overweight,yes,Dance
+44,1.91,106.9,29.30292481,Overweight,yes,Dance
+25,1.82,88.4,26.68759812,Overweight,no,Cardio+strength_training
+35,1.88,98.5,27.86894522,Overweight,no,Cardio+strength_training
+45,1.93,109.9,29.50414776,Overweight,no,Cardio+strength_training
